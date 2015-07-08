@@ -12,6 +12,11 @@ one heading
 
 testing ...
 
+term|definition
+---|---
+abstract|A summary of the resource.
+accessRights|Information about who can access the resource or an indication of its security status.
+accrualMethod|The method by which items are added to a collection.
 
 heading				{#hdr}
 -------
